@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Portfolio3d/static/css/main.8e6b887a.css",
+    "main.js": "/Portfolio3d/static/js/main.c3bcd06b.js",
+    "static/media/profile.png": "/Portfolio3d/static/media/profile.9b6c4e09e82c3c767716.png",
+    "index.html": "/Portfolio3d/index.html",
+    "main.8e6b887a.css.map": "/Portfolio3d/static/css/main.8e6b887a.css.map",
+    "main.c3bcd06b.js.map": "/Portfolio3d/static/js/main.c3bcd06b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e6b887a.css",
+    "static/js/main.c3bcd06b.js"
+  ]
+}
